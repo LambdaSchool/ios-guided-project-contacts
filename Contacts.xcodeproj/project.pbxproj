@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9D6B5E4420DC6214005BCA50 /* ConctactsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6B5E4320DC6214005BCA50 /* ConctactsTableViewController.swift */; };
+		9D6B5E4420DC6214005BCA50 /* ContactsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6B5E4320DC6214005BCA50 /* ContactsTableViewController.swift */; };
 		9D73016020DC603E008E18BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D73015F20DC603E008E18BF /* AppDelegate.swift */; };
 		9D73016520DC603F008E18BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D73016320DC603F008E18BF /* Main.storyboard */; };
 		9D73016720DC603F008E18BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D73016620DC603F008E18BF /* Assets.xcassets */; };
@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9D6B5E4320DC6214005BCA50 /* ConctactsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConctactsTableViewController.swift; sourceTree = "<group>"; };
+		9D6B5E4320DC6214005BCA50 /* ContactsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsTableViewController.swift; sourceTree = "<group>"; };
 		9D73015C20DC603E008E18BF /* Contacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Contacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D73015F20DC603E008E18BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D73016420DC603F008E18BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				9D73015F20DC603E008E18BF /* AppDelegate.swift */,
-				9D6B5E4320DC6214005BCA50 /* ConctactsTableViewController.swift */,
+				9D6B5E4320DC6214005BCA50 /* ContactsTableViewController.swift */,
 				9DFADCA220DC66E60032DB4C /* DetailViewController.swift */,
 				9D73016320DC603F008E18BF /* Main.storyboard */,
 				9D73016620DC603F008E18BF /* Assets.xcassets */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9D6B5E4420DC6214005BCA50 /* ConctactsTableViewController.swift in Sources */,
+				9D6B5E4420DC6214005BCA50 /* ContactsTableViewController.swift in Sources */,
 				9DFADCA320DC66E60032DB4C /* DetailViewController.swift in Sources */,
 				9D73016020DC603E008E18BF /* AppDelegate.swift in Sources */,
 			);

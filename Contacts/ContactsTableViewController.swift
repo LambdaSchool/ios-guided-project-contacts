@@ -1,5 +1,5 @@
 //
-//  ConctactsTableViewController.swift
+//  ContactsTableViewController.swift
 //  Contacts
 //
 //  Created by Andrew R Madsen on 6/21/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ConctactsTableViewController: UITableViewController {
+class ContactsTableViewController: UITableViewController {
     
     // MARK: - Table view data source
     
